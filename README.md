@@ -12,7 +12,7 @@ You can install the required packages using the following:
 
 ```bash
 pip install opencv-python cvzone
-
+bash```
 This project is a fun and interactive Python-based implementation of the classic Snake Game, where you control the snake using your hand gestures. By detecting the movement of your index finger, the game dynamically adjusts the snake’s direction. The game utilizes a webcam to track your hand's position and OpenCV for image processing.
 
 Features:
